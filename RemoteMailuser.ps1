@@ -1,5 +1,7 @@
 $environment=$args[0]
 
+#updated comment testting
+
 Add-PSSnapin Microsoft.Exchange.Management.PowerShell.SnapIn
 
 Start-Transcript -Path "c:\automation\bulkcreatemailuser.txt"
